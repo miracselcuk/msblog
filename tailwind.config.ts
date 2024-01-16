@@ -8,8 +8,9 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      'text': '#e8e5e3',
-      'color1': '#262730'
+      'text': '#e3deda',
+      'color1': '#111113',
+      'main': '#c19e00'
     },
     extend: {
     },
